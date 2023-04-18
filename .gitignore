@@ -1,0 +1,7 @@
+tmp/
+.*html_old
+.*png*buckup
+Thumbs.db
+.DS_Store
+index*html*old
+NeuroStartUp*png*backup
